@@ -1,0 +1,53 @@
+export const FLOTA_COMPLETA = [
+  {
+    id: 'LOG-892',
+    unidad: 'Kenworth T800 — Tráiler Refrigerado',
+    conductor: 'Ing. Fernando Gómez',
+    origen: 'Bogotá D.C. (Hub Central)',
+    destino: 'Barranquilla (Puerto Marítimo)',
+    distancia: '980 km',
+    tiempoEst: '18.5 Horas',
+    tipoCarga: 'Químicos & Bio-Pharma',
+    temperatura: '-18.4°C',
+    presionPSI: '110 PSI',
+    combustible: '74%',
+    velocidad: '72 km/h',
+    progreso: 68,
+    lat: '6.2442° N',
+    lng: '-75.5812° W'
+  },
+  {
+    id: 'LOG-441',
+    unidad: 'International LT — Container 40ft',
+    conductor: 'Carlos Mario Restrepo',
+    origen: 'Medellín (Zona Franca)',
+    destino: 'Buenaventura (Sociedad Portuaria)',
+    distancia: '480 km',
+    tiempoEst: '11.0 Horas',
+    tipoCarga: 'Componentes Electrónicos',
+    temperatura: '4.1°C',
+    presionPSI: '108 PSI',
+    combustible: '52%',
+    velocidad: '64 km/h',
+    progreso: 42,
+    lat: '3.8801° N',
+    lng: '-77.0312° W'
+  },
+  {
+    id: 'LOG-309',
+    unidad: 'Freightliner Cascadia — Carga Seca',
+    conductor: 'Javier Domínguez',
+    origen: 'Cali (Parque Industrial)',
+    destino: 'Cúcuta (Frontera Comercial)',
+    distancia: '820 km',
+    tiempoEst: '16.0 Horas',
+    tipoCarga: 'Maquinaria Pesada & Repuestos',
+    temperatura: '24.0°C',
+    presionPSI: '112 PSI',
+    combustible: '88%',
+    velocidad: '78 km/h',
+    progreso: 85,
+    lat: '7.8939° N',
+    lng: '-72.5078° W'
+  }
+];
